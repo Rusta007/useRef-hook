@@ -2,6 +2,7 @@
 
   <hr />
       <h1>What is useRef?</h1>
+      <p>useRef + hook + allows + mutable object + ref + current property + hold any values + Dom Element + state / props + and persists between renders </p>
       <p>
         useRef is a hook that allows you to create a mutable object called a
         "ref" that has a current property. The current property can hold any
